@@ -1,0 +1,16 @@
+{
+    "name": "MeanFilter",
+    "version": "1.0.0",
+    "keywords": "MeanFilter",
+    "description": "Mean Filter",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MeanFilter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
